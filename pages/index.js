@@ -36,13 +36,13 @@ export default function Home({ allPostsData }) {
       <style jsx>
         {`
           button {
+            height: 50px;
+            width: 100px;
             border-radius: 60px;
             border: 1px solid white;
-            background: rgba(255, 255, 255, 0.7);
-            box-shadow: 2px 2px rgba(0, 0, 0, 0.1);
-          }
-          button:hover {
-            background: lightpink;
+            background: lightcoral;
+            padding: 0.3em;
+            font-size: 1rem;
             color: white;
           }
         `}
