@@ -52,3 +52,7 @@ date: "2020-01-01"
    1. to render markdown content
 5. data-fns
    1. formate the date
+
+# deploy this app
+
+normally push updated code to the git will automatically update on vercel
